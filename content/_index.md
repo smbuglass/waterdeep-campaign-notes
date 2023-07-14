@@ -9,6 +9,3 @@ The campaign is set in the city of [[notes/Places/Waterdeep|Waterdeep]] and its 
 Stuff the [[notes/Players/Trollskull Trio|Trollskull Trio]] need to get done: [[notes/Todo|Todo]]
 ## Make Your Own
 Want to make one of these yourself? Head on over to https://quartz.jzhao.xyz/ and get instructions from the much smarter dude who made this stuff that I forked from.
-
-
-

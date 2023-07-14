@@ -1,8 +1,6 @@
 ---
 title: "Stickee and Sweet"
 ---
-#places/north_ward 
-
 A bakery in [[notes/Places/Trollskull Alley|Trollskull Alley]], run by [[notes/People/Tina Toffel|Tina Toffel]] and [[notes/People/Tansy Nylif|Tansy Nylif]]
 
 # Secret Baddass Cleric Grandma Society
