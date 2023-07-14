@@ -5,4 +5,5 @@ One of the [[notes/Players/Trollskull Trio|Trollskull Trio]]. A wizard who was t
 
 ## Fashion Icon
 ![icon|250](notes/images/20230714154751.png)
-With the help of [[notes/People/Murgo|Murgo]]
+
+With the help of [[notes/People/Murgo|Murgo]], Higi has daringly broken into the [[notes/Places/Waterdeep|Waterdeep]] fashion scene.
