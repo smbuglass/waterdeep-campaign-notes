@@ -15,7 +15,7 @@ A big city full of peeps.
 	- [[notes/Places/The Bent Nail|The Bent Nail]]
 	- [[notes/Places/Trollskull Manor|Trollskull Manor]]
 # Sea Ward
-- 
+- n/a
 # Castle Ward
 - [[notes/Places/Blackstaff Tower|Blackstaff Tower]]
 # Trades Ward
@@ -23,7 +23,7 @@ A big city full of peeps.
 # Dock Ward
 - [[notes/Places/The Sea Maidens Faire|The Sea Maidens Faire]]
 # South Ward
-- 
+- n/a
 # Other Locations
 - [[notes/Places/The Blue Alley|The Blue Alley]]
 - [[notes/Places/Unknown Zhentarim Base|Unknown Zhentarim Base]]
