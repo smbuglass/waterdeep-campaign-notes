@@ -1,5 +1,5 @@
 ---
-title: 🐲 Waterdeep: Dragon Heist, Campaign Notes
+title: 🐲 Waterdeep Dragon Heist Campaign Notes
 enableToc: false
 ---
 
