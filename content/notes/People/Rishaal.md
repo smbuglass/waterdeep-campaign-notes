@@ -2,7 +2,7 @@
 title: "Rishaal"
 ---
 Dragon daddy. Runs an arcane shop in [[notes/Places/Trollskull Alley|Trollskull Alley]]
-![[notes/images/Rishaal.webp|250]]
+![image|250](notes/images/Rishaal.webp)
 # Rishaal x [[notes/Players/Higi|Higi]]
 We ship it
 # Disagreement with Fala

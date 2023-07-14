@@ -1,6 +1,6 @@
 ---
 title: "Blackstaff Tower"
 ---
-![[notes/images/BlackstaffTower.webp|500]]
+![image|250](notes/images/BlackstaffTower.webp)
 
 HQ of [[notes/Factions/Grey Hands|Grey Hands]] home of [[notes/People/Vajra|Vajra]]

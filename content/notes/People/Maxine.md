@@ -9,6 +9,6 @@ Currently living in the cellar at [[notes/Places/Trollskull Manor|Trollskull Man
 
 
 ---
-![[notes/images/maxresdefault.jpg|500]]
+![image|250](notes/images/maxresdefault.jpg)
 
 

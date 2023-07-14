@@ -1,7 +1,7 @@
 ---
 title: "Yalah Gralhund"
 ---
-![[notes/images/Yalah_Gralhund_Portrait.webp|250]]
+![image|250](notes/images/Yalah_Gralhund_Portrait.webp)
 She's serving "got shot in the fuckin head by some drow"
 
 Formerly alive wife of [[notes/People/Orond Gralhund|Orond Gralhund]]

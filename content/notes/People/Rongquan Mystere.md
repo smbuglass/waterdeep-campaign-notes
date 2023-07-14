@@ -1,4 +1,4 @@
 ---
 title: "Rongquan Mystere"
 ---
-![[notes/images/ESefzBGUcAA1JNy.jpg|500]]
+![image|250](notes/images/ESefzBGUcAA1JNy.jpg)

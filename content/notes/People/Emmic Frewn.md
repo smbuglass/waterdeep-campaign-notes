@@ -1,7 +1,7 @@
 ---
 title: "Emmic Frewn"
 ---
-![[notes/images/Pasted image 20230714091737.png]]
+![image|250](notes/images/20230714091737.png)
 
 Dilweed
 

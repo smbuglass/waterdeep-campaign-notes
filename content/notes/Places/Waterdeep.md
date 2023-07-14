@@ -2,7 +2,7 @@
 title: "Waterdeep"
 ---
 A big city full of peeps.
-![[notes/images/WaterdeepSample.png]]
+![image|250](notes/images/WaterdeepSample.png)
 
 # North Ward
 [[notes/Places/Trollskull Alley|Trollskull Alley]]

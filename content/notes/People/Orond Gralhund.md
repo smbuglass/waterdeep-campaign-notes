@@ -1,6 +1,6 @@
 ---
 title: "Orond Gralhund"
 ---
-![[notes/images/Orond.webp|250]]
+![image|250](notes/images/Orond.webp)
 
 Noble guy, widower of [[notes/People/Yalah Gralhund|Yalah Gralhund]]

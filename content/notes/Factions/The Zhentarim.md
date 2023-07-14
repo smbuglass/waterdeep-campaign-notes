@@ -4,7 +4,7 @@ title: "The Zhentarim"
 Gang of baddies, *not* the ones with the [[notes/Factions/Xanathar's Thieves' Guild|beholder motif]]
 
 They like to send out little snake friends as messengers
-![[notes/images/MessengerSnake.webp|250]]
+![image|250](notes/images/MessengerSnake.webp)
 
 # Known Members
 - [[notes/People/Avareen|Avareen]]
