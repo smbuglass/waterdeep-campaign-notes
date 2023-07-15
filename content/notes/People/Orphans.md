@@ -1,7 +1,7 @@
 ---
 title: "Orphans"
 ---
-A group of orphans that got taken in by the [[notes/Players/Trollskull Trio|Trollskull Trio]]. Currently living in [[notes/Places/Trollskull Manor|Trollskull Manor]]
+A group of orphans that have been informally adopted by the [[notes/Players/Trollskull Trio|Trollskull Trio]], and particularly [[notes/Players/Freya|Freya]]. Currently living in [[notes/Places/Trollskull Manor|Trollskull Manor]].
 
 ---
 ## Squigley

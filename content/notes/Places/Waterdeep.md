@@ -18,10 +18,13 @@ A big city full of peeps.
 - n/a
 # Castle Ward
 - [[notes/Places/Blackstaff Tower|Blackstaff Tower]]
-# Trades Ward
 - [[notes/Places/The Yawning Portal|The Yawning Portal]]
+# Trades Ward
+- [[notes/Places/Weirdbottle Concoctions|Weirdbottle Concoctions]]
 # Dock Ward
 - [[notes/Places/The Sea Maidens Faire|The Sea Maidens Faire]]
+- [[notes/Places/Zhent Warehouse|Zhent Warehouse]]
+- [[notes/Seven Masks Theater|Seven Masks Theater]]
 # South Ward
 - n/a
 # Other Locations
