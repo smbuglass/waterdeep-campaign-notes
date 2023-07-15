@@ -4,7 +4,7 @@ title: "Todo"
 - [ ] [[notes/Other/Unicorn Statue|Unicorn Statue]]
 - [x] investigate tuktuk sword
 	- [ ] keep eyes peeled for worthy elf to take up the moonblade. Hopefully after tuktuk is able to find a shinier more powerful weapon 😉
-- [ ] [[notes/People/Maxine|Maxine]]
+- [ ] [[notes/People/Maxeene|Maxeene]]
 	- [ ] Probably look in the countryside and ask the halflings who run the farm we saved from zombies if she can stay there
 - [ ] [[notes/People/Fala|Fala]]/[[notes/People/Rishaal|Rishaal]]
 - [ ] Bronze dragon in the sea ward

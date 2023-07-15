@@ -1,5 +1,5 @@
 ---
-title: "Maxine"
+title: "1. Maxeene"
 ---
 A talking horse who formerly worked pulling a dray in [[notes/Places/Waterdeep|Waterdeep]]. Has a flower that allows it to talk.
 

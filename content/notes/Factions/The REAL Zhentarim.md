@@ -1,7 +1,9 @@
 ---
 title: "The REAL Zhentarim"
 ---
-AKA the Doom Raiders. The gang that [[notes/Players/Freya|Freya]] has been working for. Claim to be the original [[notes/Factions/The Zhentarim|The Zhentarim]] gang in [[notes/Places/Waterdeep|Waterdeep]], and are not a fan of these new folk ruining the good Zhentarim name
+AKA the Doom Raiders. The gang that [[notes/Players/Freya|Freya]] has been working for. Claim to be the original [[notes/Factions/The Zhentarim|The Zhentarim]] gang in [[notes/Places/Waterdeep|Waterdeep]], and are not a fan of these new folk ruining the good Zhentarim name.
+
+They claim to be doing things above board and only doing vaguely questionable things.
 
 # Known Members
 - [[notes/People/Davil Starsong|Davil Starsong]] - Sun elf leader guy

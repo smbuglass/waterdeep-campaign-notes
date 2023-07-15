@@ -1,7 +1,7 @@
 ---
 title: "Unknown Zhentarim Base"
 ---
-[[notes/Factions/The Zhentarim|The Zhentarim]] base made up of two towers that has some kind of forcefield around it. We discovered it by going through a portal from [[notes/Places/Yellow Spire|Yellow Spire]].
+[[notes/Factions/The Zhentarim|The Zhentarim]] base made up of two towers that has some kind of forcefield around it. We discovered it by going through a portal from [[notes/Places/Yellow Spire|Yellow Spire]]. We don't currently know its exact location.
 
 # Portal Room
 There are several other teleporter runes in that room, as well as several chests. 

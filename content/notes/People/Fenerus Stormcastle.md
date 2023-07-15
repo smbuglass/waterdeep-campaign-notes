@@ -7,4 +7,4 @@ We confronted him and got him to agree to let us intercept and copy a message he
 
 > *Westra Moltimmur is demanding three additional dresses for Sapphiria’s Booty. Considerable expense. [[notes/People/Rongquan Mystere|Rongquan Mystere]] may need to put in an appearance.*
 
-> *[[notes/Other/Nimblewright|Nimblewright]] delivery completed to Bowgentra Summertaen.*
+> *[[notes/Other/Nimblewright|Nimblewright]] delivery completed to [[notes/People/Bowgentra Summertaen|Bowgentra Summertaen]].*
