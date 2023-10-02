@@ -16,5 +16,5 @@ They like to send out little snake friends as messengers
 
 # Known Places
 [[notes/Places/Yellow Spire|Yellow Spire]]
-[[notes/Places/Unknown Zhentarim Base|Unknown Zhentarim Base]]
+[[notes/Places/Central Zhentarim Base|Central Zhentarim Base]]
 [[notes/Places/Weirdbottle Concoctions|Weirdbottle Concoctions]]

@@ -14,5 +14,9 @@ Aspiring little wizard dude
 Kenku child that we rescued from a [[notes/Factions/The Zhentarim|The Zhentarim]] warehouse after killing all his friends (sorry little buddy). As a Kenku he can't talk directly, but can mimic any spoken things he has heard before
 
 ---
-# Goat Statues
-They are in possession of three magical goat statues that were given to them by [[notes/Players/Freya|Freya]]
+# Magical Figurines
+They are in possession of three magical goat figurines and a raven figurine, that were given to them by [[notes/Players/Freya|Freya]] after we recovered them from [[notes/Places/The Blue Alley|The Blue Alley]]
+- ### Nat - Goat of Traveling
+- ### Squigley - Goat of Terror
+- ### Jenks - Goat of Travail
+- ### Squawks - Raven statue

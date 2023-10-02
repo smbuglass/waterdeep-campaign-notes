@@ -6,10 +6,10 @@ title: "Unknown Zhentarim Base"
 # Portal Room
 There are several other teleporter runes in that room, as well as several chests. 
 ## Portals
-- Zhentarim Sanctum
+- [[notes/People/Manshoon|Manshoon's]] Sanctum
 - [[notes/Places/Yellow Spire|Yellow Spire]]
 - The backroom of [[notes/Places/Weirdbottle Concoctions|Weirdbottle Concoctions]]
-- A Warehouse in the Dock Ward
+- A [[notes/Places/Moonshine Warehouse|Moonshine Warehouse]]
 ## Chests
 There are several chests in here which we tried to move and unlock and they seem to be magically locked. We'll need to find a key somehow
 

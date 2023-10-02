@@ -1,7 +1,8 @@
 ---
 title: "Yagra"
 ---
-![image|250](notes/images/f3c57fe98109750afb7b7e1ef11d7fb1.webp|250)
+
+![image|250](notes/images/f3c57fe98109750afb7b7e1ef11d7fb1.webp)
 
 Buff orc lady who we helped out when she was getting jumped in [[notes/Places/The Yawning Portal|The Yawning Portal]]
 

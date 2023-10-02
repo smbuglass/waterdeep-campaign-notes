@@ -33,4 +33,4 @@ A big city full of peeps.
 - n/a
 # Other Locations
 - [[notes/Places/The Blue Alley|The Blue Alley]]
-- [[notes/Places/Unknown Zhentarim Base|Unknown Zhentarim Base]] 
+- [[notes/Places/Central Zhentarim Base|Central Zhentarim Base]] 
