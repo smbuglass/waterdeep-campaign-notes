@@ -5,4 +5,4 @@ title: "Yellow Spire"
 ## Basement Portal
 Has a portal in the basement that leads to an [[notes/Places/Central Zhentarim Base|Central Zhentarim Base]]
 ## Ritual
-When we arrived, we interrupted a ritual in which [[notes/People/Seccent|Seccent]] was trying to convert [[notes/People/Shan Chien|Shan Chien]] to be controlled as a [[notes/Factions/The Zhentarim|The Zhentarim]] puppet to control the flow of information.
+When we arrived, we interrupted a ritual in which [[notes/People/Amath Sercent|Amath Sercent]] was trying to convert [[notes/People/Shan Chien|Shan Chien]] to be controlled as a [[notes/Factions/The Zhentarim|The Zhentarim]] puppet to control the flow of information.

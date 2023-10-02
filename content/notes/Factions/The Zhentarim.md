@@ -10,11 +10,13 @@ They like to send out little snake friends as messengers
 # Known Members
 - [[notes/People/Avareen|Avareen]]
 - [[notes/People/Zorbog|Zorbog]]
-- [[notes/People/Seccent|Seccent]]
+- [[notes/People/Amath Sercent|Amath Sercent]]
 - [[notes/People/Yorn the Terror|Yorn the Terror]]
 - [[notes/People/Manshoon|Manshoon]]
+- [[notes/People/Agorn Fuoco|Agorn Fuoco]]
 
 # Known Places
 [[notes/Places/Yellow Spire|Yellow Spire]]
 [[notes/Places/Central Zhentarim Base|Central Zhentarim Base]]
 [[notes/Places/Weirdbottle Concoctions|Weirdbottle Concoctions]]
+[[notes/Places/Moonshine Warehouse|Moonshine Warehouse]]
