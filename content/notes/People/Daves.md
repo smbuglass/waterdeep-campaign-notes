@@ -1,3 +1,6 @@
+---
+title: Daves
+---
 A secret society of guys named Dave.
 
 They all wear Amulets of Dave in order to morph their appearances into that of an average looking human man with a beard and brown hair.

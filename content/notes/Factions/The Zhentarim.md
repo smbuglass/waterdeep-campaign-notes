@@ -8,12 +8,13 @@ They like to send out little snake friends as messengers
 ![image|250](notes/images/MessengerSnake.webp)
 
 # Known Members
+- [[notes/People/Manshoon|Manshoon]]
 - [[notes/People/Avareen|Avareen]]
 - [[notes/People/Zorbog|Zorbog]]
 - [[notes/People/Amath Sercent|Amath Sercent]]
 - [[notes/People/Yorn the Terror|Yorn the Terror]]
-- [[notes/People/Manshoon|Manshoon]]
 - [[notes/People/Agorn Fuoco|Agorn Fuoco]]
+- 
 
 # Known Places
 [[notes/Places/Yellow Spire|Yellow Spire]]

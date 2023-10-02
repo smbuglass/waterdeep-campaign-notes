@@ -1,5 +1,7 @@
+---
+title: Orond Gralhund Letters
+---
 Letters found in the estate of [[notes/People/Orond Gralhund|Orond Gralhund]].
-
 # Letters from Eagle
 *O.G.,
 We’ve identified the gnome who’s been keeping surveillance on [[notes/People/Renaer Neverember|R.N]]. [[notes/People/Dalakhar|Dalakhar]]. An agent of Lord D. Please advise. 

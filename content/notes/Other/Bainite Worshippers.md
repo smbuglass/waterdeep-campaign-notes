@@ -1,3 +1,6 @@
+---
+title: Bainite Worshippers
+---
 ![image|350](notes/images/bane-06.jpg)
 
 Worshippers of the god Bane, the party has run into them a few times.
