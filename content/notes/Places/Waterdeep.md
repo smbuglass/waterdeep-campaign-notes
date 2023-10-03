@@ -15,6 +15,7 @@ A big city full of peeps.
 	- [[notes/Places/Stickee and Sweet|Stickee and Sweet]]
 	- [[notes/Places/The Bent Nail|The Bent Nail]]
 	- [[notes/Places/Trollskull Manor|Trollskull Manor]]
+	- [[notes/Places/Trollskull Tailor|Trollskull Tailor]]
 # Sea Ward
 - n/a
 # Castle Ward

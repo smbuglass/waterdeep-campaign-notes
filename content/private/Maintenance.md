@@ -24,8 +24,7 @@ dv.list([...new Set(r)])
 ```
 # Places Missing from ToC
 ```dataview
-LIST file.inlinks
+LIST file.inlinks 
 FROM "notes/Places"
-WHERE !contains(file.inlinks, "Waterdeep")
 ```
 
