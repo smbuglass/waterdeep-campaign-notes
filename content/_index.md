@@ -1,8 +1,8 @@
 ---
 title: 🐲 Waterdeep Dragon Heist Campaign Notes
 ---
-
-This is a site to host my campaign notes for a personal D&D game. If you are one of my fellow players or DM, hello! If you aren't, feel free to explore, but there may be spoilers for the above named DND 5e module. None of this is my intellectual property I'm just the note-takey guy.
+This is a site to host my campaign notes for a personal D&D game running the Waterdeep Dragon Heist premade campaign. If you are one of my fellow players or DM, hello! 
+If you aren't, feel free to explore, but there may be spoilers for the above named DND 5e module. None of this is my intellectual property I'm just the note-takey guy.
 ## Setting
 The campaign is set in the city of [[notes/Places/Waterdeep|Waterdeep]] and its surrounding countryside.
 ### Major Factions
