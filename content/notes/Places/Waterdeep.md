@@ -30,7 +30,7 @@ A big city full of peeps.
 - [[notes/Places/Seven Masks Theater|Seven Masks Theater]]
 - [[notes/Places/Fenerus Stormcastle's Home|Fenerus Stormcastle's Home]]
 # South Ward
-- n/a
+- [[notes/Places/Central Zhentarim Base|Central Zhentarim Base]]
 # Other Locations
 - [[notes/Places/The Blue Alley|The Blue Alley]]
 - [[notes/Places/Central Zhentarim Base|Central Zhentarim Base]] 

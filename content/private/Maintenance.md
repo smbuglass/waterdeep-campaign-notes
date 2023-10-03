@@ -22,3 +22,10 @@ SORT file.mtime desc
 let r = Object.entries(dv.app.metadataCache.unresolvedLinks) .filter(([k,v])=>Object.keys(v).length) .flatMap(([k,v]) => Object.keys(v).map(x=>dv.fileLink(x)))  
 dv.list([...new Set(r)])  
 ```
+# Places Missing from ToC
+```dataview
+LIST file.inlinks
+FROM "notes/Places"
+WHERE !contains(file.inlinks, "Waterdeep")
+```
+
