@@ -26,5 +26,6 @@ The campaign is set in the city of [[notes/Places/Waterdeep|Waterdeep]] and its 
 - [ ] Diffuse tensions between [[notes/People/Fala|Fala]]/[[notes/People/Rishaal|Rishaal]] so that Rishaal will help [[notes/Players/Higi|Higi]] turn back into a human
 - [ ] Someone should probably check out the rumored Bronze Dragon in the Sea Ward
 - [ ] [[notes/People/Zardoz Zord|Zardoz Zord]] and [[notes/Places/The Sea Maidens Faire|The Sea Maidens Faire]] seems like he should be investigated as he is probably related to [[notes/Factions/Unknown Drow Fuckers|Unknown Drow Fuckers]]
+- [ ] Check up on the bunkbeds for the kiddos at [[notes/Places/The Bent Nail|The Bent Nail]]
 ## Make Your Own
 Want to make one of these yourself? Head on over to https://quartz.jzhao.xyz/ and get instructions from the much smarter dude who made this stuff that I forked from.
